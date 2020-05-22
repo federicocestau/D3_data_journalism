@@ -6,4 +6,4 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 I placed additional labels in the scatter plot and give them click events so that the users can decide which data to display, Animating the transitions for the circles' locations as well as the range of the axes. I created three risk factors for each axis.
 Please go to settings and click the website to see the visualization of the scatter plot. 
-
+https://federicocestau.github.io/D3_data_journalism/
